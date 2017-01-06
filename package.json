@@ -1,0 +1,23 @@
+{
+  "name": "reactjs-essentials",
+  "version": "1.0.0",
+  "description": "reactjs essentials study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisamorim/reactjs-essentials.git"
+  },
+  "keywords": [
+    "react",
+    "js"
+  ],
+  "author": "Luis Henrique Amorim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisamorim/reactjs-essentials/issues"
+  },
+  "homepage": "https://github.com/luisamorim/reactjs-essentials#readme"
+}
